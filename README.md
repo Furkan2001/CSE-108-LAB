@@ -1,3 +1,3 @@
 # CSE-108-LAB
 
-This repo include my 108 lab projects..
+This repo includes my 108 lab projects..
